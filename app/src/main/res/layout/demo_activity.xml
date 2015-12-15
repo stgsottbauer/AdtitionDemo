@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ads="http://schemas.android.com/apk/lib/com.adition.android.sdk"
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+      <!--com.adition.android.sdk.AditionView
+        android:id="@+id/adView"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:background="@android:color/white"
+        ads:network_id="1800"
+        ads:content_unit_id="2856406"
+        ads:max_width="450dp"
+        ads:max_height="300dp"
+        /-->
+
+</RelativeLayout>
